@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">I'm Victor Borges de Alencar from Brasilia, Brazil<br><br>- 🔭 I’m studying Computer Science at UniCeub.<br>- 📚 I'm currently learning Database,  Backend and Front End Development at College.<br>- ⚡ In my free time I like to listen to music, watch movies or series and read books. Sometimes I play gams on my PC as well!</p>
+<p align="left">I'm Victor Borges de Alencar from Brasilia, Brazil<br><br>- I’m studying Computer Science at UniCeub.<br>- I'm currently learning Database,  Backend and Front End Development at College.<br>- In my free time I like to listen to music, watch movies or series and read books. Sometimes I play gams on my PC as well!</p>
 
 ###
 
@@ -47,13 +47,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VictorBAlencar/VictorBAlencar/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VictorBAlencar/VictorBAlencar/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VictorBAlencar/VictorBAlencar/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
