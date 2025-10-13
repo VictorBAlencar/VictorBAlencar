@@ -22,30 +22,16 @@
 
 ###
 
-<p align="left">I'm Victor Borges de Alencar from Brasilia, Brazil<br><br>- I’m studying Computer Science at UniCeub.<br>- I'm currently learning Database,  Backend and Front End Development at College.<br>- In my free time I like to listen to music, watch movies or series and read books. Sometimes I play gams on my PC as well!</p>
+<p align="left">
+I'm Victor Borges de Alencar from Brasilia, Brazil<br><br>- I’m studying Computer Science at UniCeub.
+<br>- I'm currently learning Database,  Backend and Front End Development at College.
+<br>- In my free time I like to listen to music, watch movies or series and read books. Sometimes I play gams on my PC as well!
+</p>
 
 ###
 
-<h2 align="left">LANGUAGES AND TOOLS I USE</h2>
+<div align="center">
+  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorBAlencar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
 </div>
-
-###
