@@ -49,9 +49,3 @@ I am particularly interested in how hardware, such as synthesizers and audio sys
 ---
 
 ###
-
-<div align="center">
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorBAlencar&layout=compact&theme=radical)
-
-</div>
