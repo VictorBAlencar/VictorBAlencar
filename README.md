@@ -23,8 +23,8 @@
 ###
 
 <p align="left">
-I'm Victor Borges de Alencar from Brasilia, Brazil<br><br>- I’m studying Computer Science at UniCeub.
-<br>- I'm currently learning Database,  Backend and Front End Development at College.
+I'm Victor Borges de Alencar from Brasilia, Brazil<br><br>- I’m studying Computer Science at IDP.
+<br>- I'm currently learning Database,  Backend and Front End Development.
 <br>- In my free time I like to listen to music, watch movies or series and read books. Sometimes I play gams on my PC as well!
 </p>
 
