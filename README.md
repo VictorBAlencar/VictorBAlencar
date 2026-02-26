@@ -22,7 +22,7 @@
 
 ###
 
-I am a Computer Science student in my 4th semester at IDP!
+I`m a Computer Science student in my 4th semester at IDP!
 
 ### Current Focus
 
@@ -33,7 +33,7 @@ I am a Computer Science student in my 4th semester at IDP!
 
 ### Technical & Creative Intersection
 
-When I am not working in an IDE, I am usually in FL Studio or DaVinci Resolve. I specialize in sound design for electronic genres like Drum ’n Bass, Future House, and Hardstyle. This creative work sharpens my attention to detail—specifically how individual elements like instruments and effects must harmonize to create a cohesive result. I apply this same philosophy of "composition" to my academic and collaborative projects.
+Usually I`m coding in VSCode or Github Codespace, but in my free time I love watching movies (I review them on Letterboxd!), reading books or playing games. I really enjoy learning about sound design for electronic genres like Drum ’n Bass, Future House, and Hardstyle. I apply the same philosophy of "composition" in music to my academic and collaborative projects!
 
 I am particularly interested in how hardware, such as synthesizers and audio systems, interacts with software to create immersive experiences. To me, technology is a tool for both efficiency and high-level creativity.
 
@@ -52,6 +52,6 @@ I am particularly interested in how hardware, such as synthesizers and audio sys
 
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorBAlencar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorBAlencar&layout=compact&theme=radical)
 
 </div>
