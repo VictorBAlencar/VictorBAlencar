@@ -22,11 +22,31 @@
 
 ###
 
-<p align="left">
-I'm Victor Borges de Alencar from Brasilia, Brazil<br><br>- I’m studying Computer Science at IDP.
-<br>- I'm currently learning Database,  Backend and Front End Development.
-<br>- In my free time I like to listen to music, watch movies or series and read books. Sometimes I play gams on my PC as well!
-</p>
+I am a Computer Science student in my 4th semester at IDP!
+
+### Current Focus
+
+* **Academic:** Building a foundation in Java, Python, C, and SQL.
+* **Front-End:** Developing clean, functional interfaces using HTML, CSS, and JavaScript.
+* **Workflow:** Utilizing Scrum and Kanban to manage both my code and my personal projects.
+* **Objective:** Developing software that is as balanced and well-engineered as a professional audio mix.
+
+### Technical & Creative Intersection
+
+When I am not working in an IDE, I am usually in FL Studio or DaVinci Resolve. I specialize in sound design for electronic genres like Drum ’n Bass, Future House, and Hardstyle. This creative work sharpens my attention to detail—specifically how individual elements like instruments and effects must harmonize to create a cohesive result. I apply this same philosophy of "composition" to my academic and collaborative projects.
+
+I am particularly interested in how hardware, such as synthesizers and audio systems, interacts with software to create immersive experiences. To me, technology is a tool for both efficiency and high-level creativity.
+
+### Technical Interests
+
+* **Languages:** Java, Python, C, SQL, JavaScript
+* **Tools:** FL Studio, DaVinci Resolve
+* **Fields:** Game Development, Sound Design, PC Hardware, and Systems Architecture.
+
+### Contact
+
+* **Email:** vborgesdealencar@gmail.com
+---
 
 ###
 
