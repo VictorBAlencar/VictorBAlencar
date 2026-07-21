@@ -15,14 +15,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=true&width=500&lines=WELCOME+TO+MY+WORLD" alt="Typing SVG" /></a>
 </div>
 
-
-###
-
 <h2 align="left">ABOUT ME</h2>
-
-###
-
-I`m a Computer Science student in my 4th semester at IDP!
 
 ### Current Focus
 
@@ -33,7 +26,7 @@ I`m a Computer Science student in my 4th semester at IDP!
 
 ### Technical & Creative Intersection
 
-Usually I`m coding in VSCode or Github Codespace, but in my free time I love watching movies (I review them on Letterboxd!), reading books or playing games. I really enjoy learning about sound design for electronic genres like Drum ’n Bass, Future House, and Hardstyle. I apply the same philosophy of "composition" in music to my academic and collaborative projects!
+Usually I`m coding in VSCode or Github Codespace, but in my free time I love watching movies (I review them on Letterboxd!), reading books or playing games. I really enjoy learning about sound design for electronic genres. I apply the same philosophy of "composition" in music to my academic and collaborative projects!
 
 I am particularly interested in how hardware, such as synthesizers and audio systems, interacts with software to create immersive experiences. To me, technology is a tool for both efficiency and high-level creativity.
 
@@ -46,6 +39,5 @@ I am particularly interested in how hardware, such as synthesizers and audio sys
 ### Contact
 
 * **Email:** vborgesdealencar@gmail.com
+  
 ---
-
-###
