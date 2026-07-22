@@ -20,19 +20,18 @@
 ### Current Focus
 
 * **Academic:** Building a foundation in Java, Python, C, and SQL.
-* **Front-End:** Developing clean, functional interfaces using HTML, CSS, and JavaScript.
-* **Workflow:** Utilizing Scrum and Kanban to manage both my code and my personal projects.
-* **Objective:** Developing software that is as balanced and well-engineered as a professional audio mix.
+* **Workflow:** Utilizing Scrum and Kanban to manage both code and group projects.
+* **Objective:** Developing software that is balanced and well-engineered.
 
 ### Technical & Creative Intersection
 
-Usually I`m coding in VSCode or Github Codespace, but in my free time I love watching movies (I review them on Letterboxd!), reading books or playing games. I really enjoy learning about sound design for electronic genres. I apply the same philosophy of "composition" in music to my academic and collaborative projects!
+Usually I`m coding in VSCode, but in my free time I love watching movies (I review them on Letterboxd!), reading books or playing games. I really enjoy learning about sound design for electronic genres. I apply the same philosophy of "composition" in music to my academic and collaborative projects.
 
 I am particularly interested in how hardware, such as synthesizers and audio systems, interacts with software to create immersive experiences. To me, technology is a tool for both efficiency and high-level creativity.
 
 ### Technical Interests
 
-* **Languages:** Java, Python, C, SQL, JavaScript
+* **Languages:** Java, Python, C, SQL.
 * **Tools:** FL Studio, DaVinci Resolve
 * **Fields:** Game Development, Sound Design, PC Hardware, and Systems Architecture.
 
