@@ -15,29 +15,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=true&width=500&lines=WELCOME+TO+MY+WORLD" alt="Typing SVG" /></a>
 </div>
 
-<h2 align="left">ABOUT ME</h2>
-
-### Current Focus
-
-* **Academic:** Building a foundation in Java, Python, C, and SQL.
-* **Workflow:** Utilizing Scrum and Kanban to manage both code and group projects.
-* **Objective:** Developing software that is balanced and well-engineered.
-
-### Technical & Creative Intersection
-
-Usually I`m coding in VSCode, but in my free time I love watching movies (I review them on Letterboxd!), reading books or playing games. I really enjoy learning about sound design for electronic genres. I apply the same philosophy of "composition" in music to my academic and collaborative projects.
-
-I am particularly interested in how hardware, such as synthesizers and audio systems, interacts with software to create immersive experiences. To me, technology is a tool for both efficiency and high-level creativity.
-
-### Technical Interests
-
-* **Languages:** Java, Python, C, SQL.
-* **Tools:** FL Studio, DaVinci Resolve
-* **Fields:** Game Development, Sound Design, PC Hardware, and Systems Architecture.
-
-### Contact
-
-* **Email:** vborgesdealencar@gmail.com
   
 ---
 
