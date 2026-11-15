@@ -18,4 +18,4 @@
   
 ---
 
-![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31gln2bog7kc6vrwgerdjo4igbtq&art=0&time=0&avatar=0&unique=1&duration=1&album=1&footer=wave)
+<!-- ![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31gln2bog7kc6vrwgerdjo4igbtq&art=0&time=0&avatar=0&unique=1&duration=1&album=1&footer=wave) -->
